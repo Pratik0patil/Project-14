@@ -1,1 +1,1 @@
-weather app project in pyhton django
+weather app project in java spring boot , hibernate 
